@@ -1,4 +1,4 @@
-# Angular Todo App
+# Angular To do App
 
 This repo accompanies a series of articles on [building an Angular CRUD app from the ground up](https://www.sitepoint.com/series/build-an-angular-crud-app-from-the-ground-up/).
  +
